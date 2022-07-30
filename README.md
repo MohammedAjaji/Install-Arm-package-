@@ -1,4 +1,4 @@
-# Install-Arm-package-
+# Install Arm package
 ### Install Arm package task 3 for  AI at SmartMethods summer training
 
 1- create folder <br />
